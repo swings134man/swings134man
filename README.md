@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- 블로그  -->
+<a href="https://lucas-owner.tistory.com" target="_blank">
 <img src="https://img.shields.io/badge/Blog-ff69b4?style=flat-square&logo=Tistory&logoColor=000000"/>
+</a>
