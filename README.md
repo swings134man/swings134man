@@ -1,6 +1,7 @@
 <!-- # Welcome to EveryOne👋 -->
-<p align="center"><h2>Welcome to EveryOne👋</h2></p>
-
+<div align="center">
+<p><h1>Welcome to EveryOne👋</h1></p>
+</div>
 <!--
 **swings134man/swings134man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -72,7 +73,7 @@ Here are some ideas to get you started:
 </P>  
 
 <!--  stats  -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swings134man&show_icons=true&theme=github_dark)
+![lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=swings134man&show_icons=true&theme=github_dark)
   
   
   
