@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 </P>  
 
 <!--  stats  -->
-![lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=swings134man&show_icons=true&theme=github_dark)
+![lucas's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=swings134man&show_icons=true&theme=github_dark)
   
   
   
