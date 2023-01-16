@@ -1,4 +1,5 @@
-### Welcome to EveryOne👋
+<!-- # Welcome to EveryOne👋 -->
+<p align="center"><h2>Welcome to EveryOne👋</h2></p>
 
 <!--
 **swings134man/swings134man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -69,7 +70,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=AmazonRDS&logoColor=white"/>
 </P>  
-  
+
+<!--  stats  -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swings134man&show_icons=true&theme=github_dark)
   
   
   
