@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/Blog-ff69b4?style=flat-square&logo=Tistory&logoColor=000000"/>
