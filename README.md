@@ -85,6 +85,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&amp;logo=Jenkins&amp;logoColor=white"/>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&amp;logo=Slack&amp;logoColor=white"/>
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&amp;logo=Notion&amp;logoColor=white"/>
+    <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&amp;logo=IntelliJIDEA&amp;logoColor=white"/>
 </p>
   
 #### 💪 Studying  
