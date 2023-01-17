@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <div align="center">
 <p><h2>🔥Tech Stack🔥</h2></p>
 </div>
+  
 #### Languages & FrameWorks
 <p>
 <!--   <img src="https://img.shields.io/badge/Java-FA7343?style=flat-square&logo=Java&logoColor=white"/> -->
@@ -92,7 +93,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square&amp;logo=ApacheKafka&amp;logoColor=white"/>
   
 </p>  
-  
+  </br></br>
   
 <!--  stats  -->
 ![lucas's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=swings134man&show_icons=true&theme=github_dark)
