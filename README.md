@@ -34,7 +34,9 @@ Here are some ideas to get you started:
 </p>
  
 <!--  skill  -->
-### 💪 Skills
+<div align="center">
+<p><h2>🔥Tech Stack🔥</h2></p>
+</div>
 #### Languages & FrameWorks
 <p>
 <!--   <img src="https://img.shields.io/badge/Java-FA7343?style=flat-square&logo=Java&logoColor=white"/> -->
@@ -43,7 +45,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> <br/>
+<!--   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> <br/> -->
 </p>
 
 <!--  framework  -->
@@ -53,7 +55,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&amp;logo=SpringSecurity&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/> <br/>
+<!--   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>  -->
+  <br/>
 </p>  
 
 #### DB  
@@ -72,6 +75,25 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=AmazonRDS&logoColor=white"/>
 </P>  
 
+#### Tools & etc
+<p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=Git&amp;logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=GitHub&amp;logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&amp;logo=GitLab&amp;logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&amp;logo=Jira&amp;logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&amp;logo=Jenkins&amp;logoColor=white"/>
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&amp;logo=Slack&amp;logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&amp;logo=Notion&amp;logoColor=white"/>
+</p>
+  
+#### 💪 Studying  
+<p>
+  <img src="https://img.shields.io/badge/SpringBatch-6DB33F?style=flat-square&amp;logo=SpringBatch&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square&amp;logo=ApacheKafka&amp;logoColor=white"/>
+  
+</p>  
+  
+  
 <!--  stats  -->
 ![lucas's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=swings134man&show_icons=true&theme=github_dark)
   
