@@ -98,8 +98,8 @@ Here are some ideas to get you started:
   </br></br>
   
 <!--  stats  -->
-<!-- ![lucas's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=swings134man&show_icons=true&theme=github_dark) -->
-[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=swings134man&show_icons=true&theme=github_dark)]()
+![lucas's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=swings134man&show_icons=true&theme=github_dark)
+<!-- [![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=swings134man&show_icons=true&theme=github_dark)]() -->
   
   
   
