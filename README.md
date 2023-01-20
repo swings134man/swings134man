@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!-- introduce -->
 <p>
   🎃Hi! there! I'm aiming for a <b>Full Stack Developer<b/> skilled in API, WEB, and APP.🚀<br/>
-  My Main skill is <b>Java!!</b> Using <b>Spring & SpringBoot</b> Framework. <br/>
+  My Main skill is <b>Java!!</b> Using <b>Spring & SpringBoot</b> Frameworks. <br/>
   I'm interested in Server-side Programming.🙈<br/>
   🔥<b>My goal is developing my skills without rushing.<b/>🔥 <br/><br/>  
 </p>
