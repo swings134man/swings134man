@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 </p>  
   </br></br>
   
-<!--  stats  -->
+<!--  stats : if first code deactive move two second code  -->
 <!-- ![lucas's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=swings134man&show_icons=true&theme=github_dark) -->
 [![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=swings134man&show_icons=true&theme=github_dark)]()
   
