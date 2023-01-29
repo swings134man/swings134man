@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 </a>
 <!-- 이메일 -->
 <a href="mailto:swings134@gmail.com" target="_blank"><img src="https://img.shields.io/badge/swings134@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<!-- 방문자수   -->
+<a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/swings134man&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 </p>
 
 <!-- introduce -->
