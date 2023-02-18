@@ -84,6 +84,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=Docker&amp;logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=Git&amp;logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=GitHub&amp;logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=flat-square&amp;logo=GitHubActions&amp;logoColor=white"/>
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&amp;logo=GitLab&amp;logoColor=white"/>
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&amp;logo=Jira&amp;logoColor=white"/>
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&amp;logo=Jenkins&amp;logoColor=white"/>
