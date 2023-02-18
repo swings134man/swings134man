@@ -82,6 +82,7 @@ Here are some ideas to get you started:
 
 #### Tools & etc
 <p>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=Docker&amp;logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=Git&amp;logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=GitHub&amp;logoColor=white"/>
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&amp;logo=GitLab&amp;logoColor=white"/>
