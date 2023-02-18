@@ -48,7 +48,6 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/jQuery-0796AD?style=flat-square&logo=jQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white"/>
 <!--   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> <br/> -->
 </p>
 
@@ -97,6 +96,7 @@ Here are some ideas to get you started:
 <p>
   <img src="https://img.shields.io/badge/SpringBatch-6DB33F?style=flat-square&amp;logo=SpringBatch&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square&amp;logo=ApacheKafka&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white"/>
   
 </p>  
   </br></br>
