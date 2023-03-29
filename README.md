@@ -96,6 +96,7 @@
 <p>
   <img src="https://img.shields.io/badge/SpringBatch-6DB33F?style=flat-square&amp;logo=SpringBatch&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square&amp;logo=ApacheKafka&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&amp;logo=Redis&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white"/>
   
 </p>  
