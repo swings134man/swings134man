@@ -54,6 +54,7 @@
 <p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&amp;logo=SpringBoot&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBatch-6DB33F?style=flat-square&amp;logo=SpringBatch&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&amp;logo=SpringSecurity&amp;logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
@@ -96,7 +97,6 @@
   
 #### 💪 Studying  
 <p>
-  <img src="https://img.shields.io/badge/SpringBatch-6DB33F?style=flat-square&amp;logo=SpringBatch&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square&amp;logo=ApacheKafka&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&amp;logo=Redis&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white"/>
