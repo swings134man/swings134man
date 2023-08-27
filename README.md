@@ -109,7 +109,7 @@ TODO: gitlab wiki solution study
   
 
 <!--  Language Used  -->  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swings134man}&langs_count=8&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swings134man}&langs_count=8&theme=merko)
 
 
   
