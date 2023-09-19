@@ -35,7 +35,7 @@ TODO: gitlab wiki solution study
   🔥<b>My goal is developing my skills without rushing.<b/>🔥 <br/><br/>  
 </p>
  
-<!--  skill  -->
+<!--  skill  TODO: UPDATE -->
 <div align="center">
 <p><h2>🔥Tech Stack🔥</h2></p>
 </div>
