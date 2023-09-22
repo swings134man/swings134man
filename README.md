@@ -103,7 +103,7 @@ TODO: gitlab wiki solution study
 </p>  
   </br></br>
   
-<!--  stats : if first code deactive move two second code  -->
+<!--  stats : if first code deactive  move two second code  -->
 <!-- ![lucas's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=swings134man&show_icons=true&theme=github_dark) -->
 [![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=swings134man&show_icons=true&theme=github_dark)]()
   
