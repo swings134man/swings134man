@@ -3,7 +3,7 @@
 <p><h1>Welcome to EveryOne👋</h1></p>
 </div>
 <!--
-**swings134man/swings134man** is ㅁa ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**swings134man/swings134man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 TODO: gitlab wiki solution study
 
