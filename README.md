@@ -1,6 +1,11 @@
+ <div>
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:bfbdf4,100:fcdae4&fontColor=ffffff&height=200&section=header&text=Lucas%20Kang&fontSize=70&animation=fadeIn&fontAlign=25&fontAlignY=38&desc=WEB%20Developer&descAlignY=43&descAlign=60)
+</div>
+
 <!-- # Welcome to EveryOne👋 -->
 <div align="center">
-<p><h1>Welcome to EveryOne👋</h1></p>
+<!-- <p><h1>Welcome to EveryOne👋</h1></p> -->
 </div>
 <!--
 **swings134man/swings134man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,9 +50,9 @@ TODO: gitlab wiki solution study
 <!--   <img src="https://img.shields.io/badge/Java-FA7343?style=flat-square&logo=Java&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&amp;logo=Javascript&amp;logoColor=black"/>
-   <img src="https://img.shields.io/badge/jQuery-0796AD?style=flat-square&logo=jQuery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white"/>
+<!--    <img src="https://img.shields.io/badge/jQuery-0796AD?style=flat-square&logo=jQuery&logoColor=white"/> -->
+<!--   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white"/> -->
+<!--   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white"/> -->
 <!--   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> <br/> -->
   <br>
 <!--  framework  -->
@@ -58,7 +63,7 @@ TODO: gitlab wiki solution study
   <br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> -->
 <!--   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>  -->
   <br/>
 </p>  
@@ -68,8 +73,8 @@ TODO: gitlab wiki solution study
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FireBase-FFCA28?style=flat-square&logo=FireBase&logoColor=white"/> <br/>
+<!--   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> -->
+<!--   <img src="https://img.shields.io/badge/FireBase-FFCA28?style=flat-square&logo=FireBase&logoColor=white"/> <br/> -->
 </p>  
 
 #### Clouds   
@@ -98,7 +103,7 @@ TODO: gitlab wiki solution study
 <p>
   <img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square&amp;logo=ApacheKafka&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&amp;logo=Redis&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white"/> -->
   
 </p>  
   </br></br>
