@@ -104,8 +104,8 @@ TODO: gitlab wiki solution study
 #### 💪 Studying  
 <p>
   <img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square&amp;logo=ApacheKafka&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/ElasticStack-005571style=flat-square&amp;logo=ElasticStack&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571style=flat-square&amp;logo=Elasticsearch&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/ElasticStack-005571?style=flat-square&amp;logo=ElasticStack&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&amp;logo=Elasticsearch&amp;logoColor=white"/>
 <!--   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white"/> -->
   
 </p>  
