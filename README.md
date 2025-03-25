@@ -81,7 +81,7 @@ TODO: gitlab wiki solution study
 #### Clouds   
 <p>
   <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
- 
+  <img src="https://img.shields.io/badge/OracleCloud-F80000?style=flat-square&logo=OracleCloud&logoColor=white"/>
 <!--    <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white"/> -->
 <!--   <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"/> -->
 <!--   <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=AmazonRDS&logoColor=white"/> -->
