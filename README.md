@@ -1,6 +1,6 @@
  <div>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:bfbdf4,100:fcdae4&fontColor=ffffff&height=200&section=header&text=Lucas%20Kang&fontSize=70&animation=fadeIn&fontAlign=25&fontAlignY=38&desc=WEB%20Developer&descAlignY=43&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:bfbdf4,100:fcdae4&fontColor=ffffff&height=200&section=header&text=Lucas%20Kang&fontSize=70&animation=fadeIn&fontAlign=25&fontAlignY=38&desc=Server%20Developer&descAlignY=43&descAlign=60)
 </div>
 
 <!-- # Welcome to EveryOne👋 -->
